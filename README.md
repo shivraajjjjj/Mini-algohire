@@ -105,11 +105,11 @@ Frontend/
 ## Screenshots
 
 ### Main Job Listing Page
-![Job Listing Page](./screenshots/main.png)
+![Job Listing Page]()
 *Browse all available positions with real-time filtering*
 
 ### Filters in Action
-![Filters](./screenshots/filters.png)
+![Filters](Frontend/screenshots/filters.png)
 *Filter jobs by search term, location, type, and minimum stipend*
 
 ### Saved Jobs Page
