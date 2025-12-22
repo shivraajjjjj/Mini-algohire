@@ -53,7 +53,6 @@ useEffect(() => {
 
   return (
     <div className="max-w-5xl mx-auto p-4">
-        <Navbar/>
       <Filters filters={filters} setFilters={setFilters} />
 
       <div className="grid gap-4 md:grid-cols-2">
