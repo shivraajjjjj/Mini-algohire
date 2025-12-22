@@ -105,19 +105,19 @@ Frontend/
 ## Screenshots
 
 ### Main Job Listing Page
-![Job Listing Page](./screenshots/main.png.png)
+![Job Listing Page](./screenshots/main.png)
 *Browse all available positions with real-time filtering*
 
 ### Filters in Action
-![Filters](./screenshots/filters.png.png.png)
+![Filters](./screenshots/filters.png)
 *Filter jobs by search term, location, type, and minimum stipend*
 
 ### Saved Jobs Page
-![Saved Jobs](./screenshots/saved.png.png)
+![Saved Jobs](./screenshots/saved.png)
 *View all your bookmarked job opportunities in one place*
 
 ### Mobile Responsive View
-![Mobile View](./screenshots/mobile.png.png)
+![Mobile View](./screenshots/mobile.png)
 *Fully responsive design that works seamlessly on all devices*
 
 > **Note**: Add your actual screenshots to a `screenshots` folder in the Frontend directory and update the paths accordingly.
