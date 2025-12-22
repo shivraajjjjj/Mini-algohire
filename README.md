@@ -2,6 +2,8 @@
 
 A modern, responsive job listing and management application built with React and Vite. Browse job opportunities, filter by your preferences, and save your favorite positions for later review.
 
+Live Demo: https://algohire-taupe.vercel.app
+
 ## Features
 
 - **Browse Job Listings**: View a comprehensive list of internships and full-time positions
