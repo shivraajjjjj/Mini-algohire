@@ -30,7 +30,7 @@ export const jobsData = [
     id: 4,
     role: "Software Engineer",
     company: "CloudZen",
-    location: "Hyderabad",
+    location: "Jaipur",
     stipend: 30000,
     type: "Full-time",
     tags: ["Java", "Spring", "AWS"]
