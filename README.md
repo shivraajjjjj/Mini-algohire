@@ -37,7 +37,7 @@ Before running this project, make sure you have:
 1. Clone the repository:
 ```bash
 git clone https://github.com/shivraajjjjj/Mini-algohire
-cd Mini-hire/Frontend
+cd Mini-algohire/Frontend
 ```
 
 2. Install dependencies:
