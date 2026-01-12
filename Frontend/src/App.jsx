@@ -14,9 +14,9 @@ export default function App() {
     setLoading(true);
     setError(null);
     setData(null);
-
+    const API_BASE = import.meta.env.VITE_API_BASE_URL;
     try {
-      const res = await axios.post("http://localhost:3000/analyze/your-roles", {
+      const res = await axios.post(`${API_BASE}/analyze/your-roles`, {
         repo: repoUrl.trim(),
       });
 
